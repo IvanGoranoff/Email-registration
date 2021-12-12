@@ -1,4 +1,5 @@
  Email Registration 
+ 
 I used this article for creating the registration form.
 https://www.tutsmake.com/user-registration-with-email-verification-in-php/
 
